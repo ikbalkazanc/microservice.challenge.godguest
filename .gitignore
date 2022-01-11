@@ -105,6 +105,7 @@ x86/
 build/
 bld/
 [Bb]in/
+bin/
 [Oo]bj/
 [Oo]ut/
 msbuild.log
