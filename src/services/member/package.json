@@ -1,0 +1,33 @@
+{
+  "name": "member",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "1.15.0",
+    "cookie-parser": "~1.4.4",
+    "cors": "2.7.1",
+    "debug": "~2.6.9",
+    "ejs": "2.4.1",
+    "errorhandler": "1.4.3",
+    "express": "4.13.4",
+    "express-jwt": "3.3.0",
+    "express-session": "1.13.0",
+    "express-validator": "^6.14.0",
+    "http-errors": "~1.6.3",
+    "jsonwebtoken": "7.1.9",
+    "method-override": "2.3.5",
+    "methods": "1.1.2",
+    "mongoose": "4.4.10",
+    "mongoose-unique-validator": "1.0.2",
+    "morgan": "1.7.0",
+    "passport": "0.3.2",
+    "passport-local": "1.0.0",
+    "pug": "2.0.0-beta11",
+    "request": "2.69.0",
+    "slug": "0.9.1",
+    "underscore": "1.8.3"
+  }
+}
