@@ -1,0 +1,15 @@
+
+
+http
+
+application gateway => 5000
+services gateway => 5002
+
+identity service => 6000
+checkout service => 6002
+room service => 6004
+member service => 6006
+notification service => 6008
+
+
+

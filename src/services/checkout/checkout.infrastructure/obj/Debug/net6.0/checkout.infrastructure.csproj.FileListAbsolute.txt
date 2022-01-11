@@ -1,0 +1,17 @@
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\bin\Debug\net6.0\checkout.infrastructure.deps.json
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\bin\Debug\net6.0\checkout.infrastructure.runtimeconfig.json
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\bin\Debug\net6.0\checkout.infrastructure.dll
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\bin\Debug\net6.0\ref\checkout.infrastructure.dll
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\bin\Debug\net6.0\checkout.infrastructure.pdb
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\bin\Debug\net6.0\checkout.domain.dll
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\bin\Debug\net6.0\checkout.domain.pdb
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\obj\Debug\net6.0\checkout.infrastructure.csproj.AssemblyReference.cache
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\obj\Debug\net6.0\checkout.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\obj\Debug\net6.0\checkout.infrastructure.AssemblyInfoInputs.cache
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\obj\Debug\net6.0\checkout.infrastructure.AssemblyInfo.cs
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\obj\Debug\net6.0\checkout.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\obj\Debug\net6.0\checkout.infrastructure.csproj.CopyComplete
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\obj\Debug\net6.0\checkout.infrastructure.dll
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\obj\Debug\net6.0\ref\checkout.infrastructure.dll
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\obj\Debug\net6.0\checkout.infrastructure.pdb
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.infrastructure\obj\Debug\net6.0\checkout.infrastructure.genruntimeconfig.cache

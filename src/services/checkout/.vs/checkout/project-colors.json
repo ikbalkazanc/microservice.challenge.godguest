@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d4d3a42e-f2df-4358-ba5e-82db0e46d38e": {
+      "ProjectGuid": "d4d3a42e-f2df-4358-ba5e-82db0e46d38e",
+      "DisplayName": "checkout.api",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c5e4d28b-f0d6-43e7-8a6c-5859d2d5c1d5": {
+      "ProjectGuid": "c5e4d28b-f0d6-43e7-8a6c-5859d2d5c1d5",
+      "DisplayName": "checkout.api",
+      "ColorIndex": 1
+    },
+    "24f75dee-ada6-4c3a-a4a9-2864c52d6133": {
+      "ProjectGuid": "24f75dee-ada6-4c3a-a4a9-2864c52d6133",
+      "DisplayName": "checkout.domain",
+      "ColorIndex": 2
+    },
+    "5c98b78a-2ee6-4ef7-a210-a2d4ccc0463e": {
+      "ProjectGuid": "5c98b78a-2ee6-4ef7-a210-a2d4ccc0463e",
+      "DisplayName": "checkout.infrastructure",
+      "ColorIndex": 3
+    },
+    "26e59b95-9902-4687-88fd-2333c4a2ce38": {
+      "ProjectGuid": "26e59b95-9902-4687-88fd-2333c4a2ce38",
+      "DisplayName": "checkout.application",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

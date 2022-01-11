@@ -1,0 +1,17 @@
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\bin\Debug\net6.0\checkout.application.deps.json
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\bin\Debug\net6.0\checkout.application.dll
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\bin\Debug\net6.0\ref\checkout.application.dll
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\bin\Debug\net6.0\checkout.application.pdb
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\obj\Debug\net6.0\checkout.application.csproj.AssemblyReference.cache
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\obj\Debug\net6.0\checkout.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\obj\Debug\net6.0\checkout.application.AssemblyInfoInputs.cache
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\obj\Debug\net6.0\checkout.application.AssemblyInfo.cs
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\obj\Debug\net6.0\checkout.application.csproj.CoreCompileInputs.cache
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\obj\Debug\net6.0\checkout.application.dll
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\obj\Debug\net6.0\ref\checkout.application.dll
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\obj\Debug\net6.0\checkout.application.pdb
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\bin\Debug\net6.0\checkout.domain.dll
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\bin\Debug\net6.0\checkout.infrastructure.dll
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\bin\Debug\net6.0\checkout.infrastructure.pdb
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\bin\Debug\net6.0\checkout.domain.pdb
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.application\obj\Debug\net6.0\checkout.application.csproj.CopyComplete

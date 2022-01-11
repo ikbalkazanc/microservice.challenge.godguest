@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Wu9LhHprPWk3UqvzZrCSF5X+2qc5vk78IkLO06N6ieM=",
+  "Source": "godguest.gateways.application",
+  "BasePath": "_content/godguest.gateways.application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

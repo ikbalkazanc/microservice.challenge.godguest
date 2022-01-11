@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d7544393-d646-45b1-bae7-b750812523fc": {
+      "ProjectGuid": "d7544393-d646-45b1-bae7-b750812523fc",
+      "DisplayName": "godguest.gateways.application",
+      "ColorIndex": 0
+    },
+    "9935e0f9-6e9d-4450-9ef3-301479ff6097": {
+      "ProjectGuid": "9935e0f9-6e9d-4450-9ef3-301479ff6097",
+      "DisplayName": "gateway",
+      "ColorIndex": 1
+    },
+    "7d77f12f-c1b6-4c23-81e6-2fb2b91f0dbb": {
+      "ProjectGuid": "7d77f12f-c1b6-4c23-81e6-2fb2b91f0dbb",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 2
+    },
+    "7a810913-1938-4794-b6b4-ac5c80180ce2": {
+      "ProjectGuid": "7a810913-1938-4794-b6b4-ac5c80180ce2",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

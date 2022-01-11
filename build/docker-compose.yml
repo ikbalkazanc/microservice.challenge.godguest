@@ -1,0 +1,55 @@
+version: '3.4'
+
+services:
+
+  ## GATEWAYS ##
+  application_gateway:
+    container_name: application_gateway
+    image: ikbalkazanc/applicationgateway:latest
+
+    build:
+      context: ../src/gateways/application/
+      dockerfile: ./godguest.gateways.application/Dockerfile
+
+    ports:
+       - "5000:5000"
+
+
+  services_gateway:
+    container_name: services_gateway
+    image: ikbalkazanc/servicesgateway:latest
+
+    build:
+      context: ../src/gateways/services/
+      dockerfile: ./godguest.gateways.services/Dockerfile
+
+
+
+  ## SERVICES ##
+  checkout_service:
+    container_name: checkout_service
+    image: ikbalkazanc/checkoutservice:latest
+
+    build:
+      context: ../src/services/checkout/
+      dockerfile: ./checkout.api/Dockerfile
+
+
+  #member_service:
+  #  container_name: member_service
+  #  image: ikbalkazanc/memberservice:latest
+
+  #  build:
+  #    context: ../src/services/member/
+  #    dockerfile: ./
+
+  ##  EXTERNAL APPLICATION  ##
+
+  postgresql_db:
+     container_name: postgresql_db
+     image: postgres:13.4
+     ports:
+        - "5432:5432"
+     environment:
+       POSTGRES_PASSWORD: ikobatu
+

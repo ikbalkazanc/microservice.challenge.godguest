@@ -1,0 +1,12 @@
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.domain\bin\Debug\net6.0\checkout.domain.deps.json
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.domain\bin\Debug\net6.0\checkout.domain.dll
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.domain\bin\Debug\net6.0\ref\checkout.domain.dll
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.domain\bin\Debug\net6.0\checkout.domain.pdb
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.domain\obj\Debug\net6.0\checkout.domain.csproj.AssemblyReference.cache
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.domain\obj\Debug\net6.0\checkout.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.domain\obj\Debug\net6.0\checkout.domain.AssemblyInfoInputs.cache
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.domain\obj\Debug\net6.0\checkout.domain.AssemblyInfo.cs
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.domain\obj\Debug\net6.0\checkout.domain.csproj.CoreCompileInputs.cache
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.domain\obj\Debug\net6.0\checkout.domain.dll
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.domain\obj\Debug\net6.0\ref\checkout.domain.dll
+C:\Users\ikbalkazanc\Desktop\Git\GodGuest\src\services\checkout\checkout.domain\obj\Debug\net6.0\checkout.domain.pdb

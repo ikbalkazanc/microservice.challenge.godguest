@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-godguest.gateways.application",
+      "appliesTo": "src/gateways/godguest.gateways.application/godguest.gateways.application.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
