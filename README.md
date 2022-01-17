@@ -9,9 +9,10 @@ This repo is an experimental project that hosts different languages in a microse
 
 <br>
 
-| Service  	| Language   	| Framework          	|
-|----------	|------------	|--------------------	|
-| Checkout 	| C#         	| Asp.net            	|
-| Member   	| Javascript 	| Node.js/Express.js 	|
-| Identity 	| Javascript 	| Node.js/Express.js 	|
-| Room     	| C#         	| Asp.net            	|
+| Service      	| Language   	| Framework          	|
+|--------------	|------------	|--------------------	|
+| Checkout     	| C#         	| Asp.net            	|
+| Member       	| Javascript 	| Node.js/Express.js 	|
+| Identity     	| Javascript 	| Node.js/Express.js 	|
+| Room         	| C#         	| Asp.net            	|
+| Notification 	| Go         	| NaN                	|
