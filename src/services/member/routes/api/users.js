@@ -97,8 +97,6 @@ router.put("/user/:id", rules(), validate, function (req, res, next) {
 router.post("/users", rules(), validate, function (req, res, next) {
   var user = new User();
 
-/*   assert.notEqual(typeof req.body.user, "undefined", "body is undefined");
- */
   user.name = req.body.user.name;
   user.surname = req.body.user.surname;
   user.email = req.body.user.email;
